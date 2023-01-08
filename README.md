@@ -5,6 +5,5 @@
 | Paragraph | Text |
 
 
-|  | An experimental repository    |  |
-+--+-------------------------------+--+
-|  | An experimental repository    |  |
+| ~ | An experimental repository    | ~ |
+| -- | -------------------------- | -- |
