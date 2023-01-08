@@ -5,5 +5,5 @@
 ## about
 This sandbox was created 1/8/2023 to help me learn about Git and GitHub
 
-## markdown language used in filename.md files
-https://www.markdownguide.org/cheat-sheet/
+## markdown language
+[This cheatsheet](https://www.markdownguide.org/cheat-sheet/) tells you all you need to know about the markdown language.
